@@ -11,6 +11,7 @@ namespace Miniproject
             Console.WriteLine("from vs!");
             Console.WriteLine("again from vs");
             Console.WriteLine("branch1");
+            Console.WriteLine("branch2");
         }
     }
 }
