@@ -9,6 +9,7 @@ namespace Miniproject
             Console.WriteLine("Hello World!");
             Console.ReadLine();
             Console.WriteLine("from vs!");
+            Console.WriteLine("again from vs");
 
         }
     }
